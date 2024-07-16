@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brgarcias" alt="brgarcias" /></a> </p>
 
-- 🔭 I’m currently working on [Trocafone](https://marketplace.trocafone.com)
-
 - 🌱 I’m currently learning **AWS, GitLab, Jenkins and Coaching Courses**
 
-- 👯 I’m looking to collaborate on [Saldofone](https://www.saldofone.com.br)
+- 👯 I’m looking to collaborate on something, contact-me!
 
 - 👨‍💻 All of my projects are available at [https://brgarcias-portfolio.netlify.app](https://brgarcias-portfolio.netlify.app)
 
